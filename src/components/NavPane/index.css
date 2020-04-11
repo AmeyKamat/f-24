@@ -1,0 +1,22 @@
+.nav-wrapper {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+
+}
+
+.logo {
+    height: 5em;
+    width: 12em;
+    margin-top: 2em;
+}
+
+.link {
+    font-weight: bold;
+    color: #2980B9
+}
+
+.link:hover {
+    font-weight: bold;
+    color: orange;
+    text-decoration: none;
+}

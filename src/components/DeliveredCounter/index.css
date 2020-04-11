@@ -1,0 +1,21 @@
+.counter-container {
+}
+
+.counter-wrapper {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.counter {
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.counter-label {
+    font-size: 1.5rem;
+}
+
+.mask {
+    height: 9em;
+    width: 9em;
+}
